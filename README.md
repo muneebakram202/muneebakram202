@@ -23,6 +23,9 @@
   <a href="https://instagram.com/muneebakram013" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="mailto:muneebakram013@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="muneebakram013@gmail.com" height="30" width="40" />
+  </a>
 </p>
 
 <br>
