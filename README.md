@@ -1,19 +1,17 @@
-<img src="https://your-new-image-url.com" alt="MasterHead">
+<img src="https://drive.google.com/uc?export=view&id=1qwsBtCLOcAaG6K9LfoVBU8mgBN73TJBT" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
-<h3 align="center">A Passionate Flutter Developer</h3>
+<h3 align="center">A passionate Flutter Developer</h3>
 
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<ul>
-  <li>🔭 I’m currently working on <a href="http://charmiy.com" target="_blank">Charmiy</a></li>
-  <li>🌱 I’m currently learning <strong>Advanced Flutter</strong></li>
-  <li>💬 Ask me about <strong>Flutter</strong></li>
-  <li>📫 How to reach me: <a href="mailto:muneebakram013@gmail.com">muneebakram013@gmail.com</a></li>
-  <li>⚡ Fun fact: <strong>I love cats!</strong></li>
-</ul>
+- 🔭 I’m currently working on [Charmiy](http://charmiy.com)  
+- 🌱 I’m currently learning **Advanced Flutter**  
+- 💬 Ask me about **Flutter**  
+- 📫 How to reach me **muneebakram013@gmail.com**  
+- ⚡ Fun fact **I love cats!**  
 
 <br>
 
@@ -79,8 +77,13 @@
 
 <h3 align="left">Proficiency:</h3>
 
-<pre>
+```plaintext
 Flutter               ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱
 Web Development       ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱
-Mobile                ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱
-</pre>
+```
+```plaintext
+Android               ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱
+IOS                   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱
+Web                   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱
+Desktop               ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱
+```
