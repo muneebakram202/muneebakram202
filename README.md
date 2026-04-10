@@ -1,14 +1,14 @@
 <img src="https://drive.google.com/uc?export=view&id=1qwsBtCLOcAaG6K9LfoVBU8mgBN73TJBT" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
-<h3 align="center">Full Stack Mobile Engineer | Flutter • Node.js • Scalable Systems</h3>
+<h3 align="center">Full Stack Mobile Engineer | Flutter • Node.js | Building Scalable Digital Products</h3>
 
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 Currently building **production-grade mobile apps & backend systems**  
-- 🚀 Working on [Charmiy](http://charmiy.com)  
+- 🚀 Working on [Rabaat](http://rabaat.com)  
 - 🧠 Focused on **scalable architectures, performance optimization & clean code**  
 - 💬 Ask me about **Flutter, BLoC, system design, REST/GraphQL APIs**  
 - 📫 Reach me at **muneebakram013@gmail.com**  
